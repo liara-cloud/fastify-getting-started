@@ -2,5 +2,6 @@
   "dependencies": {
     "@fastify/static": "^7.0.4",
     "fastify": "^4.27.0"
-  }
+  }, 
+  "scripts": {"start": "node server.js"}
 }
