@@ -6,13 +6,13 @@ Create [New NodeJS App](https://console.liara.ir/apps/create) & install the [Lia
 git clone https://github.com/liara-cloud/fastify-getting-started.git # or clone your own fork
 ```
 ```
-cd node-getting-started
+cd fastify-getting-started
 ```
 ```
 liara login
 ```
 ```
-liara deploy
+liara deploy --port 3000 --platform node 
 ```
 
 ## Docs
